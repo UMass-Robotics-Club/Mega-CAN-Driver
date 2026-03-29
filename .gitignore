@@ -1,3 +1,2 @@
-_build
-cmake
-out
+target
+Cargo.lock
